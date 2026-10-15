@@ -1,4 +1,4 @@
-[block_scheme_blocks_only.drawio](https://github.com/user-attachments/files/33507647/block_scheme_blocks_only.drawio)
+[block_scheme_blocks_only.drawio](https://github.com/user-attachments/files/33507668/block_scheme_blocks_only.drawio)
 <mxfile host="app.diagrams.net">
   <diagram id="full" name="Блок-схема">
     <mxGraphModel dx="900" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
