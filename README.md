@@ -31,7 +31,7 @@ $$
 
 Блок-схема X → f(X) → Q → CONTROL → STATE   
 <img width="649" height="641" alt="image" src="https://github.com/user-attachments/assets/8389d110-52c6-4337-82fa-5f1c6ae22198" />   
-##Блок-схема Q[] → заданный интервал → STATISTICS   
+Блок-схема Q[] → заданный интервал → STATISTICS   
 <img width="618" height="445" alt="image" src="https://github.com/user-attachments/assets/5deba682-db71-4e9c-b071-7cbcc6cc7cd0" />   
 
 Информация о разработчике  
